@@ -1,3 +1,7 @@
 .form-control {
     background-color: aqua !important;
 }
+
+body {
+    background-color: rgba(0, 0, 0, 0.452);
+}
